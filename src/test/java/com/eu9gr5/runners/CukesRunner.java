@@ -17,7 +17,7 @@ import org.junit.runner.RunWith;
 		features = "src/test/resources/features",
 		glue = "com/eu9gr4/step_definitions",
 		dryRun = false,
-
+		tags = "@veli",
 		publish = false
 )
 
