@@ -1,5 +1,8 @@
 package com.eu9gr5.pages;
 
-public class BasePage {
+public abstract class BasePage {
+
+
+
 
 }
